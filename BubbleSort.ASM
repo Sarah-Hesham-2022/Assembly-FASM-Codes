@@ -1,6 +1,4 @@
-;Sarah Hesham Mahmoud ,  20198047
-
-;Bioinformatics , Group One , Third Level
+;Sarah Hesham Mahmoud 
 
  format pe; console
  entry start
